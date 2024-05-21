@@ -32,7 +32,7 @@ steps:
     with:
     # The location of your sitemap must start with http(s). 
     # Currently, XML Sitemap, Sitemap index, RSS and Atom formats are supported.
-      sitemap-location: 'https://example.com/sitemap.xml' 
+      sitemap-location: 'https://www.wexsu.cn/sitemap.xml' 
       key: ${{ secrets.INDEXNOW_KEY }} # The key you get from IndexNow.
 ```
 
